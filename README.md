@@ -4,6 +4,7 @@ Một ứng dụng mô phỏng giao diện website bán sản phẩm được x�
 - **Bên trái:** Hiển thị chi tiết sản phẩm đã chọn.
 - **Bên phải:** Danh sách các sản phẩm, có thể cuộn và chọn được.
 ## Cấu trúc thư mục
+```
 Bai-thuc-hanh-3
 ├── public
 │ ├── images 
@@ -21,6 +22,7 @@ Bai-thuc-hanh-3
     └── WrapLayout.java  //Layout tùy biến giúp tự động xuống dòng
 ├── assignment.ipynb  //Đề bài
 └── README.md
+```
 ## Công nghệ sử dụng
 - Java SE 8+
 - Java Swing
